@@ -1,0 +1,13 @@
+{
+    "name": "ywq/firesys",
+    "description": "test",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ywq\\Firesys\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
